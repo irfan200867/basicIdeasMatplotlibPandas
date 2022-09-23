@@ -1,1 +1,1 @@
-# basicIdeasMatplotlibPandas
+# Basic Ideas of Matplotlib & Pandas
